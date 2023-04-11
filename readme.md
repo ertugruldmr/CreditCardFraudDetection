@@ -188,11 +188,12 @@ The project aimed classifying the passengers using the features. The study inclu
     - You can find details in the  details -> study section (Roc curve, Auc score, Confusion matrix etc...).
 <div style="flex: 50%; padding-left: 80px;">
 
-|   | Technique | accuracy | precision | recall | f1_score | auc|
-|---|---------|-----------|--------|----------|----------|
+|   | Technique | accuracy | precision | recall | f1_score | auc |
+|---|-----------|----------|-----------|--------|----------|-----|
 | loj_reg_us | Random UnderSampling | 0.268 | 0.003 | 0.987 | 0.006 | 0.627 |
-| loj_reg_os	|OverSampling |	0.983 |	0.084 |	0.886 |	0.153 |	0.935 |
-</div> 
+| loj_reg_os | OverSampling | 0.983 | 0.084 | 0.886 | 0.153 | 0.935 |
+
+</div>
 
 - Model tuning results are below.
 

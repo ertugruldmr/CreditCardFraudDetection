@@ -16,7 +16,7 @@
   - [__Project__](#project)
   - [__Data__](#data)
   - [__Demo__](#demo) -> [Live Demo](https://ertugruldemir-creditcardfrauddetection.hf.space)
-  - [__Study__](#problemgoal-and-solving-approach)
+  - [__Study__](#problemgoal-and-solving-approach) -> [Colab](https://colab.research.google.com/drive/1C1F-Wq6udTCFcdLIYcz4Z1B9Equ1kW9v)
   - [__Results__](#results)
 - (B) [__Detailed__](#Details)
   - [__Abstract__](#abstract)

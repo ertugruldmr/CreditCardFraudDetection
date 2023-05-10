@@ -34,7 +34,7 @@
 ## __Brief__ 
 
 ### __Project__ 
-- This is a __classification__ project that uses the  [__Loan Prediction Problem Dataset__](https://www.kaggle.com/datasets/isaikumar/creditcardfraud) to __classify the credit card transections__ into fraud or not fraud.
+- This is a __classification__ project that uses the  [__Credit Card Fraud Detection Dataset__](https://www.kaggle.com/datasets/isaikumar/creditcardfraud) to __classify the credit card transections__ into fraud or not fraud.
 - The __goal__ is build a model that accurately __detects the frauds__  based on the features. 
 - The performance of the model is evaluated using several __metrics__, including _accuracy_, _precision_, _recall_, _F1 score_, _roc curve_, _auc score_, _confusion matrix_ and other imbalanced classification metrics.
 #### __Overview__
